@@ -1,0 +1,127 @@
+{
+  "text.autoconfig.yungsextras-fabric-1_19.title": "YUNG的额外内容",
+
+  "text.autoconfig.yungsextras-fabric-1_19.category.Desert Decorations": "沙漠装饰品",
+  "text.autoconfig.yungsextras-fabric-1_19.category.Swamp Structures": "沼泽结构",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations": "沙漠装饰",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.@Tooltip": "沙漠装饰",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures": "沼泽结构",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.@Tooltip": "沼泽结构",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist": "额外的白名单生物群落（沙漠）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist.@Tooltip[0]": "将有沙漠装饰的额外生物群系列表。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist.@Tooltip[1]": "默认情况下，所有具有沙漠类别的生物群系（包括修改后的生物群系）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist.@Tooltip[2]": "自动包含，不需要在这里添加。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist.@Tooltip[3]": "列表必须是用方括号括起来的逗号分隔值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist.@Tooltip[4]": "条目必须包含 mod 命名空间。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.additionalBiomeWhitelist.@Tooltip[5]": "例如：\"[minecraft:plains, byg:alps]\"",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist": "列入黑名单的生物群系（沙漠）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[0]": "没有沙漠装饰的生物群系列表。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[1]": "默认情况下，所有沙漠生物群系都会自动拥有沙漠装饰，",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[2]": "所以你只需要将沙漠类别的生物群落列入黑名单",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[3]": "你不想在其中生成沙漠装饰。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[4]": "列表必须是用方括号括起来的逗号分隔值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[5]": "条目必须包含 mod 命名空间。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.biomeBlacklist.@Tooltip[6]": "例如：\"[minecraft:desert, byg:dunes]\"",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells": "沙漠之井",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.@Tooltip[0]": "不同沙漠之井变化的设置。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.@Tooltip[1]": "给定区块中每种井生成的几率是 1 / N,",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.@Tooltip[2]": "其中 N 是下面为该井设置的配置值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.@Tooltip[3]": "例如，如果该值为 1000，那么每个区块的生成几率为千分之一。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks": "沙漠方尖碑",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.@Tooltip[0]": "不同沙漠方尖碑变体的设置。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.@Tooltip[1]": "每种方尖碑在给定区块中生成的几率是 1 / N,",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.@Tooltip[2]": "其中 N 是下面为该井设置的配置值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.@Tooltip[3]": "例如，如果该值为 1000，那么每个区块的生成几率为千分之一。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc": "沙漠杂项",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.@Tooltip[0]": "各种沙漠结构的设置。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.@Tooltip[1]": "每个结构在给定区块中生成的几率是 1 / N,",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.@Tooltip[2]": "其中 N 是下面为该井设置的配置值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.@Tooltip[3]": "例如，如果该值为 1000，那么每个区块的生成几率为千分之一。",
+
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.smallNormalWellSpawnRate": "正常井生成率（小）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.smallNormalWellSpawnRate.@Tooltip": "确定小型普通井的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.mediumNormalWellSpawnRate": "正常孔生成率（中）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.mediumNormalWellSpawnRate.@Tooltip": "确定中型普通井的产卵率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.largeNormalWellSpawnRate": "正常孔生成率（大）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.largeNormalWellSpawnRate.@Tooltip": "确定大型普通井的产卵率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.smallWishingWellSpawnRate": "许愿井生成率（小）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.smallWishingWellSpawnRate.@Tooltip": "决定小许愿井的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.mediumWishingWellSpawnRate": "许愿井生成率（中）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.mediumWishingWellSpawnRate.@Tooltip": "确定中型许愿井的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.largeWishingWellSpawnRate": "许愿井生成率（大）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.largeWishingWellSpawnRate.@Tooltip": "决定大型许愿井的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.smallDryWellSpawnRate": "干井产卵率（小）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.smallDryWellSpawnRate.@Tooltip": "确定小型干井的产卵率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.mediumDryWellSpawnRate": "干井生成率（中）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.mediumDryWellSpawnRate.@Tooltip": "确定中型干井的产卵率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.largeDryWellSpawnRate": "干井产卵率（大）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.wells.largeDryWellSpawnRate.@Tooltip": "确定大型干井的产卵率。",
+
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.normalObeliskSpawnRate": "正常方尖碑生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.normalObeliskSpawnRate.@Tooltip": "确定普通方尖碑的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.creeperObeliskSpawnRate": "方尖碑生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.creeperObeliskSpawnRate.@Tooltip": "确定方尖碑的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.ruinedObeliskSpawnRate": "毁坏的方尖碑生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.ruinedObeliskSpawnRate.@Tooltip": "确定被毁方尖碑的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.blackstoneObeliskSpawnRate": "黑石方尖碑生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.obelisks.blackstoneObeliskSpawnRate.@Tooltip": "决定黑石方尖碑的生成率。",
+
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.smallRuinsSpawnRate": "废墟生成率（小）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.smallRuinsSpawnRate.@Tooltip": "决定小型遗迹的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.giantTorchSpawnRate": "火焰哨站生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.giantTorchSpawnRate.@Tooltip": "确定火焰哨站的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.chillzoneSpawnRate": "废弃度假区生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.desertDecorations.misc.chillzoneSpawnRate.@Tooltip": "确定废弃度假胜地的产卵率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist": "附加白名单生物群系（沼泽）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist.@Tooltip[0]": "将具有沼泽结构的附加生物群系列表。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist.@Tooltip[1]": "默认情况下，所有具有沼泽类别的生物群系（包括修改后的生物群系）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist.@Tooltip[2]": "自动包含，不需要在这里添加。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist.@Tooltip[3]": "列表必须是用方括号括起来的逗号分隔值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist.@Tooltip[4]": "条目必须包含 mod 命名空间。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.additionalBiomeWhitelist.@Tooltip[5]": "例如：\"[minecraft:plains, byg:alps]\"",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist": "列入黑名单的生物群系（沼泽）",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[0]": "没有沼泽结构的生物群系列表。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[1]": "默认情况下，所有沼泽生物群落都会自动拥有沼泽结构，",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[2]": "所以你只需要将沼泽类别的生物群落列入黑名单",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[3]": "你不想在其中生成沼泽结构。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[4]": "列表必须是用方括号括起来的逗号分隔值。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[5]": "条目必须包含 mod 命名空间。",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.biomeBlacklist.@Tooltip[6]": "例如：\"[minecraft:desert, byg:dunes]\"",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.pillarSpawnRate": "沼泽柱生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.pillarSpawnRate.@Tooltip": "确定被毁沼泽柱子的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.ogreSpawnRate": "外屋的生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.ogreSpawnRate.@Tooltip": "确定外屋的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.cubbySpawnRate": "沼泽小熊产卵率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.cubbySpawnRate.@Tooltip": "决定沼泽幼崽的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.archSpawnRate": "毁坏的拱门生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.archSpawnRate.@Tooltip": "决定毁坏拱门的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.doubleArchSpawnRate": "破坏双拱生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.doubleArchSpawnRate.@Tooltip": "确定被毁双拱的生成率。",
+
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.churchSpawnRate": "破坏网关生成率",
+  "text.autoconfig.yungsextras-fabric-1_19.option.swampStructures.churchSpawnRate.@Tooltip": "确定毁坏的传送门的生成率。"
+}

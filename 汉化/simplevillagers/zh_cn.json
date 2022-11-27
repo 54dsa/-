@@ -1,0 +1,19 @@
+{
+  "simplevillagers.reroll_trades": "重新滚动交易",
+  "simplevillagers.refresh_trades_desc": "更新交易而不破坏和替换职业块!",
+  "simplevillagers.hide_buttons": "隐藏这些按钮",
+  "container.simplevillagers.iron_farm": "钢铁农场",
+  "container.simplevillagers.breeder": "村民增殖器",
+  "container.simplevillagers.incubator": "村民孵化器",
+  "container.simplevillagers.converter": "村民转换器",
+  "container.simplevillagers.converter.converting": "固化.",
+  "container.simplevillagers.trader": "交易站",
+  "item.simplevillagers.villager_item": "选定的村民",
+  "block.simplevillagers.iron_farm_block": "钢铁农场区块",
+  "block.simplevillagers.breeder_block": "繁殖区块",
+  "block.simplevillagers.converter_block": "转换器块",
+  "block.simplevillagers.incubator_block": "孵化器块",
+  "block.simplevillagers.trading_block": "交易块",
+  "command.simplevilagers.config.reload.success": "配置重新加载成功.",
+  "itemGroup.simplevillagers.general": "简单村民"
+}

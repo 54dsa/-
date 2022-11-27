@@ -1,0 +1,18 @@
+{
+	"key.ftbultimine": "FTB Ultimine",
+	"key.categories.ftbultimine": "FTB Ultimine",
+	"ftbultimine.info.base": "FTB Ultimine 是 %s",
+	"ftbultimine.info.active": "活跃",
+	"ftbultimine.info.no​​t_active": "不活跃",
+	"ftbultimine.info.blocks": "挖掘 %d 个区块",
+	"ftbultimine.info.partial_render": "%d 已渲染",
+	"ftbultimine.change_shape": "按住 Shift +（滚动鼠标或向上/向下箭头）改变形状",
+	"ftbultimine.shape.shapeless": "无形",
+	"ftbultimine.shape.small_tunnel": "小隧道",
+	"ftbultimine.shape.small_square": "小正方形",
+	"ftbultimine.shape.mining_tunnel": "采矿隧道",
+	"ftbultimine.shape.escape_tunnel": "逃生隧道",
+	"ftbultimine.config": "FTB Ultimine 配置",
+	"item.ftbultimine.ultimine": "Ultimine",
+	"item.ftbultimine.ultiminer.tooltip": "激活时启用 %s"
+}
